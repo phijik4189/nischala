@@ -2,3 +2,5 @@ apple
 banana
 orange
 grape
+guava
+fig
